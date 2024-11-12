@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.npmjs.com/package/@sldo/use-tree-walker">
-    <img src="logo.png" width="500" alt="use-tree-walker" />
+    <img src="logo.png" width="100%" alt="use-tree-walker" />
   </a>
 </div>
 
